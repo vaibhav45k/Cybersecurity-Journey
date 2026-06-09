@@ -20,3 +20,17 @@ I am learning cybersecurity from scratch.
 - [ ] Complete Pre Security Path
 - [ ] Learn Linux Basics
 - [ ] Learn Python Basics
+## Completed Modules
+
+### TryHackMe
+- [x] What is Networking?
+- [x] Careers in Cyber
+- [x] Defensive Security Intro
+- [x] Offensive Security Intro
+
+## Skills I'm Learning
+- Networking
+- Linux
+- Cybersecurity Fundamentals
+- Python
+- Git & GitHub
